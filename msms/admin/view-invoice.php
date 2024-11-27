@@ -115,7 +115,6 @@ if (strlen($_SESSION['bpmsaid'] == 0)) {
 								<p style="margin-top:1%" align="center">
 									<i class="fa fa-print fa-2x" style="cursor: pointer;" OnClick="CallPrint(this.value)"></i>
 								</p>
-
 							</div>
 					</div>
 				</div>
